@@ -1,8 +1,4 @@
 name: 'Update Packwiz Mods'
-description: 'Update a minecraft modpack using Packwiz'
-branding:
-  icon: 'download'
-  color: 'purple'
 on:
     workflow_dispatch:
 jobs:
